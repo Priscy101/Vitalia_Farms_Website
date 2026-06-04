@@ -1,0 +1,11 @@
+[
+  {
+    "id": "default_pork",
+    "name": "Farm-Fresh Pork",
+    "emoji": "\ud83d\udc16",
+    "price": 5000,
+    "desc": "Responsibly raised, carefully prepared. Every kilogram is a promise of quality from our farm to your family.",
+    "status": "available",
+    "wa": "https://wa.me/2348135476984?text=Hello%2C%20I'd%20like%20to%20order%20pork%20from%20Vitalia%20Farms."
+  }
+]
